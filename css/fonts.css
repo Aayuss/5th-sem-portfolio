@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "BdSupper"; /* Give your font family a name */
+  src: url("fonts/BDSupperBold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "BdSupper";
+  src: url("fonts/BDSupperRegular.ttf") format("truetype");
+
+  font-weight: normal;
+}
